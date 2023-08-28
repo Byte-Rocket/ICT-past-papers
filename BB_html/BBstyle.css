@@ -1,0 +1,33 @@
+body     {background-color:#cfc5ab}
+h1	{
+	font-family:"Arial";
+	color: #ff0000;
+}
+
+h2 {
+	color: #0000FF;
+}
+
+h3 {
+	color: #00ff00;
+}
+
+h1,h2,h3 {
+	font-family: 'Zapf Chancery' , 'Blackadder ITC' , serif;
+	text-align: center;
+}
+
+
+tr,td {
+	border: 2px;
+}
+
+table {
+	border: 4px;
+}
+
+table img {
+	max-width: 100%;
+}
+
+table,td { border: solid #ff0000; border-collapse: collapse; }
